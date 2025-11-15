@@ -2,7 +2,9 @@
 
 **`Engenheiro DevOps`**
 
-Me chamo Ettory, sou natural de Goiás, e bacharelando em Engenharia de Software. Atualmente estou estudando e aprimorando meus conhecimentos nas áreas de DevOps e automações em larga escala. Além dos estudos transmitidos pela universidade, pratico atividades de forma autodidata, onde priorizo o aprendizado com escopos definidos para as melhores soluções do mercado. Em meu perfil do [LinkedIn](https://www.linkedin.com/in/ettorymartins), frequentemente adiciono posts sobre minhas certificações e comentários sobre o dia a dia da área de TI e afins.
+Me chamo Ettory, sou natural de Goiás, e bacharelando em Engenharia de Software. Atualmente estou estudando e aprimorando meus conhecimentos nas áreas de DevOps e automações em larga escala.
+
+Além dos estudos transmitidos pela universidade, pratico atividades de forma autodidata, onde priorizo o aprendizado com escopos definidos para as melhores soluções do mercado. Em meu perfil do [LinkedIn](https://www.linkedin.com/in/ettorymartins), frequentemente adiciono posts sobre minhas certificações e comentários sobre o dia a dia da área de TI e afins.
 
 <p align="left">
     <a href="https://github.com/ettory-automation?tab=repositories&sort=stargazers">
