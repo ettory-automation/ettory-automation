@@ -25,7 +25,7 @@ Me chamo Ettory, sou natural de Goiás, e bacharelando em Engenharia de Software
 
 ### 🤖 Languages and Technologies
 <br>
-<div style="display: flex; align-itens: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
     <img 
         align="left" 
         alt="Prometheus"
