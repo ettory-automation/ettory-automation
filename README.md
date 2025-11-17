@@ -23,7 +23,7 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
     </a>
 </p>
 
-<br></br>
+<br>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="30"/>&nbsp;&nbsp;&nbsp;
@@ -42,11 +42,10 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30"/>
 </p>
 
-<br></br>
+</br>
+</br>
 
 ---
-
-<br></br>
 
 ### 🔥 GitHub Metrics Dashboard
 
