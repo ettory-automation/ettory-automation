@@ -6,9 +6,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=930EAB&vCenter=true&width=435&lines=SysAdmin+and+DevOps+Engineer" alt="Typing SVG" /></a>
 
-Me chamo Ettory, sou natural de Goiás, e bacharelando em Engenharia de Software. Atualmente estou estudando e aprimorando meus conhecimentos nas áreas de DevOps e automações em larga escala.
+Olá! Me chamo Ettory, sou natural de Goiás, e bacharelando em Engenharia de Software. Atualmente, foco em DevOps e automações em larga escala, com paixão por GNU/Linux e sistemas Unix-Like.
 
-Além dos estudos transmitidos pela universidade, pratico atividades de forma autodidata, onde priorizo o aprendizado com escopos definidos para as melhores soluções do mercado. Em meu perfil do [LinkedIn](https://www.linkedin.com/in/ettorymartins), frequentemente adiciono posts sobre minhas certificações e comentários sobre o dia a dia da área de TI e afins.
+Além dos estudos transmitidos pela universidade, pratico atividades de forma autodidata, priorizando o aprendizado com escopos definidos para as melhores soluções do mercado. Em meu perfil do [LinkedIn](https://www.linkedin.com/in/ettorymartins), frequentemente adiciono posts sobre minhas certificações e comentários sobre o dia a dia da área de TI e afins.
 
 <p align="left">
     <a href="https://github.com/ettory-automation?tab=repositories&sort=stargazers">
