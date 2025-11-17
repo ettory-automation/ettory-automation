@@ -39,7 +39,7 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="30"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="30"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="30"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30"/>
+  <img src="https://icongr.am/devicon/docker-plain-wordmark.svg?size=128&color=ffffff" width="30"/>
 </p>
 
 </br>
