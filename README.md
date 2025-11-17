@@ -27,6 +27,7 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 
 ### 🤖 Languages and Technologies
 <br>
+
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
     <img 
         align="left" 
@@ -152,10 +153,10 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 <br/>
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=ettory-automation&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
-  <img height="180" align="center" alt="Top Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ettory-automation&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight&custom_title=Top%20Technologies"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=ettory-automation&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=FiraCode"/>
+  <img height="180" align="center" alt="Top Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ettory-automation&layout=compact&font=FiraCode&langs_count=16&theme=tokyonight&custom_title=Top%20Technologies"/>
 
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=tokyonight"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=tokyonight&font=FiraCode"/>
 </div>
