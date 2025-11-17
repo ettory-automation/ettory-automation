@@ -150,16 +150,12 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 ### 🔥 GitHub Statistics
 <br/>
 <br/>
-<p align="center">
-    <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=ettory-automation&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-    />
-    <br>
-    <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ettory-automation&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-    />
-</p>
+
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=ettory-automation&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
+  <img height="180" align="center" alt="Top Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ettory-automation&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight&custom_title=Top%20Technologies"/>
+
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=tokyonight"/>
+</div>
