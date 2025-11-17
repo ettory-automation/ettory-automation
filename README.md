@@ -1,8 +1,8 @@
 # 🧑🏻‍💻 Ettory Martins de Souza
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0cfffd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=2cde97"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=0cfffd&vCenter=true&width=435&lines=SysAdmin+and+DevOps+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=2cde97&vCenter=true&width=435&lines=SysAdmin+and+DevOps+Engineer" alt="Typing SVG" /></a>
 
 Olá! Me chamo Ettory, sou natural de Goiás, e bacharelando em Engenharia de Software. Atualmente, foco em DevOps e automações em larga escala, com paixão por GNU/Linux e sistemas Unix-Like.
 
@@ -51,10 +51,10 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 ### 🔥 GitHub Metrics Dashboard
 
 <!-- Linha com 2 colunas -->
-| <img width="723px" align="center" alt="Profile details card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=nightowl&font=FiraCode"/> | <img width="348px" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ettory-automation&theme=nightowl"/> |
+| <img width="723px" align="center" alt="Profile details card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=algolia&font=FiraCode"/> | <img width="348px" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ettory-automation&theme=algolia"/> |
 | :-: | :-: |
 
 <!-- Linha com 3 colunas -->
-| <img width="348px" align="center" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ettory-automation&theme=nightowl"/> | <img width="348px" align="center" alt="Repositories Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ettory-automation&theme=nightowl"/> | <img width="348px" align="center" alt="Productive Time UTC Based" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ettory-automation&theme=nightowl&utcOffset=-03"/> |
+| <img width="348px" align="center" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ettory-automation&theme=algolia"/> | <img width="348px" align="center" alt="Repositories Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ettory-automation&theme=algolia"/> | <img width="348px" align="center" alt="Productive Time UTC Based" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ettory-automation&theme=algolia&utcOffset=-03"/> |
 | :-: | :-: | :-: |
 
