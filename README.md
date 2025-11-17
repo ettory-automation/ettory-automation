@@ -1,7 +1,5 @@
 # 🧑🏻‍💻 Ettory Martins de Souza
 
-**`Engenheiro DevOps`**
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=930eab"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=930EAB&vCenter=true&width=435&lines=SysAdmin+and+DevOps+Engineer" alt="Typing SVG" /></a>
