@@ -153,9 +153,9 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 <br/>
 
 <div align="center">
-  <img align="center" alt="Profile details card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=tokyonight&font=FiraCode"/>
-  <img align="center" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ettory-automation&theme=tokyonight"/>
-  <img align="center" alt="Repositories Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ettory-automation&theme=tokyonight"/>
-  <img align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ettory-automation&theme=tokyonight"/>
-  <img align="center" alt="Productive Time UTC Based" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ettory-automation&theme=tokyonight&utcOffset=-03"
+  <img align="center" alt="Profile details card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=nightowl&font=FiraCode"/>
+  <img width="348px" align="center" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ettory-automation&theme=nightowl"/>
+  <img width="348px" align="center" alt="Repositories Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ettory-automation&theme=nightowl"/>
+  <img width="348px" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ettory-automation&theme=nightowl"/>
+  <img width="348px" align="center" alt="Productive Time UTC Based" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ettory-automation&theme=nightowl&utcOffset=-03"/>
 </div>
