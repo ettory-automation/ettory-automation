@@ -48,20 +48,15 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 
 </br>
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 ### 🔥 GitHub Metrics Dashboard
 
-<!-- Frame único -->
-| <img width="723px" align="center" alt="Profile details card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=nightowl&font=FiraCode"/> |
-| :-: |
-
-<!-- Primeira linha com 2 colunas -->
-| <img width="348px" align="center" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ettory-automation&theme=nightowl"/> | <img width="348px" align="center" alt="Repositories Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ettory-automation&theme=nightowl"/> |
+<!-- Linha com 2 colunas -->
+| <img width="723px" align="center" alt="Profile details card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=nightowl&font=FiraCode"/> | <img width="348px" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ettory-automation&theme=nightowl"/> |
 | :-: | :-: |
 
-<!-- Segunda linha com 2 colunas -->
-| <img width="348px" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ettory-automation&theme=nightowl"/> | <img width="348px" align="center" alt="Productive Time UTC Based" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ettory-automation&theme=nightowl&utcOffset=-03"/> |
-| :-: | :-: |
-
+<!-- Linha com 3 colunas -->
+| <img width="348px" align="center" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ettory-automation&theme=nightowl"/> | <img width="348px" align="center" alt="Repositories Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ettory-automation&theme=nightowl"/> | <img width="348px" align="center" alt="Productive Time UTC Based" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ettory-automation&theme=nightowl&utcOffset=-03"/> |
+| :-: | :-: | :-: |
 
