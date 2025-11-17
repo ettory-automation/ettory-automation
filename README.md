@@ -153,10 +153,9 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 <br/>
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=ettory-automation&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=FiraCode"/>
-  <img height="180" align="center" alt="Top Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ettory-automation&layout=compact&font=FiraCode&langs_count=16&theme=tokyonight&custom_title=Top%20Technologies"/>
-
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=tokyonight&font=FiraCode"/>
+  <img align="center" alt="Profile details card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=tokyonight&font=FiraCode"/>
+  <img align="center" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ettory-automation&theme=tokyonight"/>
+  <img align="center" alt="Repositories Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ettory-automation&theme=tokyonight"/>
+  <img align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ettory-automation&theme=tokyonight"/>
+  <img align="center" alt="Productive Time UTC Based" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ettory-automation&theme=tokyonight&utcOffset=-03"
 </div>
