@@ -28,20 +28,20 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Prometheus.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Grafana-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Azure-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Light.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GithubActions-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Jenkins-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/RabbitMQ-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Ruby.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Ansible.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Terraform-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Kubernetes.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Prometheus.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Grafana-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Azure-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/AWS-Light.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/GithubActions-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Jenkins-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/RabbitMQ-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Ruby.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/GoLang.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Python-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Ansible.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Terraform-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Kubernetes.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Docker.svg" width="40"/>
 </p>
 
 </br>
