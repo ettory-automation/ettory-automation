@@ -33,7 +33,6 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
   <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Azure-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/AWS-Light.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/GithubActions-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Jenkins-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/RabbitMQ-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Ruby.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/GoLang.svg" width="40"/>&nbsp;&nbsp;&nbsp;
