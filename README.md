@@ -55,4 +55,5 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 | :-: | :-: |
 
 | <img width="348px" align="center" alt="Most Commit Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/2-most-commit-language.svg"/> | <img width="348px" align="center" alt="Repositories Per Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/1-repos-per-language.svg"/> | <img width="348px" align="center" alt="Productive Time" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/4-productive-time.svg"/> |
+| :-: | :-: | :-: |
 
