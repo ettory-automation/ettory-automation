@@ -51,9 +51,9 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 
 ### 🔥 GitHub Metrics Dashboard
 
-| <img width="723px" align="center" alt="Profile details card" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/0-profile-details.svg"/> | <img width="348px" align="center" alt="GitHub Stats" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/3-stats.svg"/> |
+| <img align="center" alt="Profile details card" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/0-profile-details.svg"/> | <img align="center" alt="GitHub Stats" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/3-stats.svg"/> |
 | :-: | :-: |
 
-| <img width="348px" align="center" alt="Most Commit Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/2-most-commit-language.svg"/> | <img width="348px" align="center" alt="Repositories Per Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/1-repos-per-language.svg"/> | <img width="348px" align="center" alt="Productive Time" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/4-productive-time.svg"/> |
+| <img align="center" alt="Most Commit Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/2-most-commit-language.svg"/> | <img align="center" alt="Repositories Per Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/1-repos-per-language.svg"/> | <img align="center" alt="Productive Time" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/4-productive-time.svg"/> |
 | :-: | :-: | :-: |
 
