@@ -51,9 +51,8 @@ Além dos estudos transmitidos pela universidade, pratico atividades de forma au
 
 ### 🔥 GitHub Metrics Dashboard
 
-| <img width="723px" align="center" alt="Profile details card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ettory-automation&theme=algolia&font=FiraCode"/> | <img width="348px" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ettory-automation&theme=algolia"/> |
+| <img width="723px" align="center" alt="Profile details card" src="./profile-summary-card-output/algolia/0-profile-details.svg"/> | <img width="348px" align="center" alt="GitHub Stats" src="./profile-summary-card-output/algolia/1-stats.svg"/> |
 | :-: | :-: |
 
-| <img width="348px" align="center" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ettory-automation&theme=algolia"/> | <img width="348px" align="center" alt="Repositories Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ettory-automation&theme=algolia"/> | <img width="348px" align="center" alt="Productive Time UTC Based" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ettory-automation&theme=algolia&utcOffset=-03"/> |
-| :-: | :-: | :-: |
+| <img width="348px" align="center" alt="Most Commit Language" src="./profile-summary-card-output/algolia/2-most-commit-language.svg"/> | <img width="348px" align="center" alt="Repositories Per Language" src="./profile-summary-card-output/algolia/3-repos-per-language.svg"/> | <img width="348px" align="center" alt="Productive Time" src="./profile-summary-card-output/algolia/4-productive-time.svg"/> |
 
