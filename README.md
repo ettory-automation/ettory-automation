@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Ettory Martins de Souza
+# Ettory Martins de Souza
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=2cde97"/>
 
