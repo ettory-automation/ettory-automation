@@ -61,9 +61,12 @@ Desenvolvo automações e ferramentas de suporte em Python e Shell Script, focan
 
 ### 🔥 GitHub Metrics Dashboard
 
-| <img align="center" alt="Profile details card" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/0-profile-details.svg"/> | <img align="center" alt="GitHub Stats" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/3-stats.svg"/> |
-| :-: | :-: |
+<img width="100%" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/5-activity-graph.svg" />
 
-| <img align="center" alt="Most Commit Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/2-most-commit-language.svg"/> | <img align="center" alt="Repositories Per Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/1-repos-per-language.svg"/> | <img align="center" alt="Productive Time" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/4-productive-time.svg"/> |
-| :-: | :-: | :-: |
+<p align="center">
+    <img align="center" alt="Most Commit Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/2-most-commit-language.svg" width="32%"/>
+    <img align="center" alt="Repositories Per Language" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/1-repos-per-language.svg" width="32%"/>
+    <img align="center" alt="Productive Time" src="https://raw.githubusercontent.com/ettory-automation/ettory-automation/main/profile-summary-card-output/algolia/4-productive-time.svg" width="32%"/>
+</p>
+
 
