@@ -2,13 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=2cde97"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=2cde97&vCenter=true&width=435&lines=SysAdmin+and+DevOps+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=2cde97&vCenter=true&width=435&lines=SRE+and+DevOps+Engineer" alt="Typing SVG" /></a>
 
-Engenheiro DevOps & SysAdmin focado na orquestração de ambientes críticos e automação de infraestrutura em larga escala. Especialista em sistemas Unix-Like, atuo no desenho de soluções resilientes utilizando Kubernetes, Terraform e Ansible, priorizando observabilidade e performance com Prometheus e Grafana.
+DevOps Engineer & SysAdmin focused on orchestrating critical environments and large-scale infrastructure automation. Specialist in Unix-Like systems, I design resilient solutions using Kubernetes, Terraform, and Ansible, prioritizing observability and performance with Prometheus and Grafana.
 
-Desenvolvo automações e ferramentas de suporte em Python e Shell Script, focando sempre na eficiência operacional e na cultura de infraestrutura como código (IaC).
+I develop automations and support tools in Python and Shell Script, always focusing on operational efficiency and Infrastructure as Code (IaC) culture.
 
-🚀 Acompanhe meus insights e certificações no [LinkedIn](https://www.linkedin.com/in/ettorymartins).
+🚀 Follow my insights and certifications on [LinkedIn](https://www.linkedin.com/in/ettorymartins).
 
 <br>
 
@@ -29,35 +29,39 @@ Desenvolvo automações e ferramentas de suporte em Python e Shell Script, focan
     </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/ettory-automation/jrohitofficial/master/2nd%20arrow.gif">
+
+### 🛠️ Main Stack
+
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Grafana-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Prometheus.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Bash-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Ruby.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/GoLang.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Python-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Grafana-Dark.svg" width="45" title="Grafana"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Prometheus.svg" width="45" title="Prometheus"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Python-Dark.svg" width="45" title="Python"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/GoLang.svg" width="45" title="Go"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Bash-Dark.svg" width="45" title="Bash"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Ruby.svg" width="45" title="Ruby"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/GithubActions-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Ansible.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Terraform-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Kubernetes.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/RabbitMQ-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Kubernetes.svg" width="45" title="Kubernetes"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Terraform-Dark.svg" width="45" title="Terraform"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Ansible.svg" width="45" title="Ansible"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/GithubActions-Dark.svg" width="45" title="GitHub Actions"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/RabbitMQ-Dark.svg" width="45" title="RabbitMQ"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Azure-Dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/AWS-Light.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/oracle-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Docker.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Docker.svg" width="45" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/AWS-Light.svg" width="45" title="AWS"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/Azure-Dark.svg" width="45" title="Azure"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ettory-automation/skill-icons/main/icons/oracle-original.svg" width="45" title="Oracle Cloud"/>
 </p>
 
 </br>
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<img src="https://raw.githubusercontent.com/ettory-automation/jrohitofficial/master/2nd%20arrow.gif">
 
 ### 🔥 GitHub Metrics Dashboard
 
