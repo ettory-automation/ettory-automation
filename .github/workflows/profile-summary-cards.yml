@@ -20,3 +20,16 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           theme: algolia
+
+      - name: Fetch GitHub Activity Graph
+        run: |
+          mkdir -p ./profile-summary-card-output/algolia
+          curl -o ./profile-summary-card-output/algolia/5-activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=ettory-automation&theme=tokyonight&hide_border=true&area=true&bg_color=050f2c&color=00aeff&line=44a8b3&point=ffffff"
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update GitHub Profile Summary Cards and Activity Graph" || exit 0
+          git push
